@@ -1,133 +1,106 @@
+<p align="center">
+  <img src="assets/editorial/hero-organizing-creative-production.png" alt="ATRAKTOR — Organizing Creative Production" width="100%">
+</p>
+
 # ATRAKTOR
 
-**Organizing creative production. Preserving context. Enabling continuity.**
+## The Orchestrator
 
-> **Public Product Status:** Preview  
-> **Engine Status:** Production Baseline — Conversation UX v1.0  
-> **Baseline Commit:** `c08123e`
+**Organizing Creative Production. Preserving Context. Enabling Continuity.**
 
----
+Creative work rarely fails because we lack tools.
 
-## Why ATRAKTOR?
+It fails because we lose context.
 
-Creative projects rarely fail because of a lack of tools.
+Ideas become fragmented. Versions diverge. Decisions disappear. Production loses continuity.
 
-They fail because they lose context.
-
-Ideas become disconnected. Decisions are forgotten. Versions multiply. Dependencies disappear. Knowledge becomes fragmented.
-
-The more ambitious the project becomes, the harder it is to keep everything coherent.
-
-ATRAKTOR was created to solve that problem.
+ATRAKTOR exists to preserve intent, organize production, and enable continuity from the first conversation to the final result.
 
 ---
 
-## What is ATRAKTOR?
+<p align="center">
+  <img src="assets/editorial/hero-the-orchestrator.png" alt="ATRAKTOR — The Orchestrator" width="100%">
+</p>
 
-ATRAKTOR is a platform for orchestrating creative and production workflows.
+## Understand before execution
 
-Instead of replacing creators, it helps them organize complex projects by preserving context, coordinating workflows, tracking decisions, and maintaining continuity over time.
+ATRAKTOR does not begin by creating.
 
-Its role is not to create instead of people.
+It follows a deliberate product behavior:
 
-Its role is to make creative production understandable, repeatable, and sustainable.
+```text
+Intent
+   ↓
+Analyze
+   ↓
+Organize
+   ↓
+Approve
+   ↓
+Create
+```
 
----
-
-## The Orchestrator Principle
-
-ATRAKTOR organizes creative production the way a conductor organizes an orchestra — without playing the instruments.
-
-Creative tools remain specialists.
-
-People remain creators.
-
-ATRAKTOR provides the structure that allows them to work together as one coherent system.
-
----
-
-## Core Principles
-
-- Human creativity comes first.
-- Context is a strategic asset.
-- Decisions should remain traceable.
-- Every project has its own identity.
-- Creative production should remain reproducible.
-- Organization comes before automation.
+Understanding comes before execution.
 
 ---
 
-## Current Status
+## Product Editorial 01 — The Conversation
 
-ATRAKTOR ENGINE has reached its first locked Production Baseline:
+<p align="center">
+  <img src="assets/editorial/product-editorial-01-the-conversation.png" alt="Product Editorial 01 — The Conversation" width="100%">
+</p>
 
-**Production Baseline — Conversation UX v1.0**
+**Everything begins with intent.**
 
-Confirmed baseline commit:
-
-`c08123e`
-
-The current public-product phase is:
-
-**Controlled Public Presence**
-
-Current priorities:
-
-- establish the official public identity;
-- prepare the first public demonstration;
-- validate the workflow with the first external test users;
-- prepare a safe distribution path for closed testing.
+The conversation is not a prompt box attached to a generator. It is the beginning of a governed creative process.
 
 ---
 
-## Product and Engine
+## Product Editorial 02 — The Orchestrator
 
-ATRAKTOR is presented publicly as a product and platform.
+<p align="center">
+  <img src="docs/artifacts/ARTIFACT-PR001-RUNTIME-001/runtime.png" alt="ATRAKTOR runtime — Analyze, Organize, Create" width="100%">
+</p>
 
-ATRAKTOR ENGINE is the private engineering implementation currently used to develop and validate the system.
+This is real runtime evidence of the accepted product behavior.
 
-The public repository contains product information, documentation, demonstrations, roadmap updates, and future test releases.
+ATRAKTOR analyzes the request, organizes the production plan, checks whether decisions remain open, and waits for explicit approval before creation.
 
-It does **not** contain the private ENGINE source code.
+**Nothing is created before explicit approval.**
 
----
-
-## Vision
-
-ATRAKTOR is evolving into a universal orchestration layer for creative production.
-
-Its first implementation is ATRAKTOR ENGINE.
-
-Over time, the same principles can support different applications, environments, and creative disciplines while preserving a common production language.
+Canonical artifact: `ARTIFACT-PR001-RUNTIME-001`
 
 ---
 
-## Documentation
+## Product principles
 
-- [Positioning Statement](docs/POSITIONING_STATEMENT.md)
-- [Messaging Guide](docs/MESSAGING_GUIDE.md)
-- [Public Roadmap](ROADMAP.md)
-- [Testing and Distribution](docs/TESTING_AND_DISTRIBUTION.md)
-
----
-
-## Repository Scope
-
-This public repository is intended for:
-
-- official product information;
-- public documentation;
-- screenshots and demonstrations;
-- public roadmap updates;
-- release notes;
-- future closed or public test packages.
-
-Private architecture, source code, internal tests, operational data, backups, and development history remain in the private ATRAKTOR ENGINE repository.
+- Preserve Context
+- Enable Continuity
+- Organize Production
+- Govern Decisions
+- Respect Creative Intent
 
 ---
 
-## Philosophy
+## Current status
 
-ATRAKTOR does not compete with creative tools.
+ATRAKTOR is in active development.
 
-**It organizes the way they work together.**
+This public repository presents the product identity, public roadmap, Product Editorials, and canonical product evidence.
+
+The private ENGINE repository remains the authority for implementation, architecture, tests, and runtime development.
+
+---
+
+## Public repository
+
+```text
+assets/       Public visual identity and editorial images
+docs/         Product documentation and canonical evidence
+ROADMAP.md    Public development direction
+README.md     Official public landing page
+```
+
+---
+
+**ATRAKTOR is an orchestrator, not a generator.**
