@@ -104,3 +104,21 @@ README.md     Official public landing page
 ---
 
 **ATRAKTOR is an orchestrator, not a generator.**
+
+---
+
+## Product Editorial 03 — Continuity
+
+<p align="center">
+  <img src="assets/editorial/product-editorial-03-continuity.png" alt="Product Editorial 03 — Continuity" width="100%">
+</p>
+
+**One Production Object. Multiple Views. One Continuous Story.**
+
+A conversation becomes a Shot.  
+The Shot carries its First Frame, Motion, Production state and Continuity forward.
+
+The work continues because the context survives.
+
+[Read the editorial documentation](docs/editorials/PRODUCT_EDITORIAL_03.md)
+
