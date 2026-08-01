@@ -1,0 +1,28 @@
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+~$*
+
+# Local working folders
+_private/
+_work/
+temp/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Archives and installers are added only as approved releases
+*.zip
+*.7z
+*.rar
+*.exe
+*.msi
