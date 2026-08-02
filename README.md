@@ -3,7 +3,6 @@
 </p>
 
 # ATRAKTOR
-
 ## The Orchestrator
 
 **Organizing Creative Production. Preserving Context. Enabling Continuity.**
@@ -16,12 +15,12 @@ Ideas become fragmented. Versions diverge. Decisions disappear. Production loses
 
 ATRAKTOR exists to preserve intent, organize production, and enable continuity from the first conversation to the final result.
 
----
+[Why ATRAKTOR exists](docs/WHY_ATRAKTOR_EXISTS.md)
 
+---
 <p align="center">
   <img src="assets/editorial/hero-the-orchestrator.png" alt="ATRAKTOR — The Orchestrator" width="100%">
 </p>
-
 ## Understand before execution
 
 ATRAKTOR does not begin by creating.
@@ -42,8 +41,9 @@ Create
 
 Understanding comes before execution.
 
----
+[Read the Orchestrator Principle](docs/ORCHESTRATOR_PRINCIPLE.md)
 
+---
 ## Product Editorial 01 — The Conversation
 
 <p align="center">
@@ -55,7 +55,6 @@ Understanding comes before execution.
 The conversation is not a prompt box attached to a generator. It is the beginning of a governed creative process.
 
 ---
-
 ## Product Editorial 02 — The Orchestrator
 
 <p align="center">
@@ -67,11 +66,9 @@ This is real runtime evidence of the accepted product behavior.
 ATRAKTOR analyzes the request, organizes the production plan, checks whether decisions remain open, and waits for explicit approval before creation.
 
 **Nothing is created before explicit approval.**
-
 Canonical artifact: `ARTIFACT-PR001-RUNTIME-001`
 
 ---
-
 ## Product principles
 
 - Preserve Context
@@ -90,8 +87,20 @@ This public repository presents the product identity, public roadmap, Product Ed
 
 The private ENGINE repository remains the authority for implementation, architecture, tests, and runtime development.
 
----
+Public direction is milestone-based rather than calendar-driven.
 
+[View the public roadmap](ROADMAP.md)
+
+---
+## Early access
+
+ATRAKTOR is preparing for limited external evaluation.
+
+Creative professionals whose work depends on long-term context, continuity, approvals, and production organization are invited to follow the project and express interest in future testing.
+
+[Read the early access note](docs/EARLY_ACCESS.md)
+
+---
 ## Public repository
 
 ```text
@@ -106,7 +115,6 @@ README.md     Official public landing page
 **ATRAKTOR is an orchestrator, not a generator.**
 
 ---
-
 ## Product Editorial 03 — Continuity
 
 <p align="center">
@@ -115,10 +123,9 @@ README.md     Official public landing page
 
 **One Production Object. Multiple Views. One Continuous Story.**
 
-A conversation becomes a Shot.  
+A conversation becomes a Shot.
 The Shot carries its First Frame, Motion, Production state and Continuity forward.
 
 The work continues because the context survives.
 
 [Read the editorial documentation](docs/editorials/PRODUCT_EDITORIAL_03.md)
-
